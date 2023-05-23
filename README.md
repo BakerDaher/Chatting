@@ -28,7 +28,6 @@ A new Flutter project.
         Home , All Groups
   </td>
 
-
 </tr></table>
 </div>
 
